@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/isfandyarkhan/todo-app-lakhan923/todo-app-lakhan923.csproj": {}
+    "/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/ToDo_Appi.csproj": {}
   },
   "projects": {
-    "/home/isfandyarkhan/todo-app-lakhan923/todo-app-lakhan923.csproj": {
+    "/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/ToDo_Appi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/isfandyarkhan/todo-app-lakhan923/todo-app-lakhan923.csproj",
-        "projectName": "todo-app-lakhan923",
-        "projectPath": "/home/isfandyarkhan/todo-app-lakhan923/todo-app-lakhan923.csproj",
+        "projectUniqueName": "/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/ToDo_Appi.csproj",
+        "projectName": "ToDo_Appi",
+        "projectPath": "/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/ToDo_Appi.csproj",
         "packagesPath": "/home/isfandyarkhan/.nuget/packages/",
-        "outputPath": "/home/isfandyarkhan/todo-app-lakhan923/obj/",
+        "outputPath": "/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/isfandyarkhan/.nuget/NuGet/NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

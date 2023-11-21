@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6V15La9jdFK7SvkU1qpndB6im4nr60R9jhzMN12MKmFkQVkM4gGXJfOHCjG3H1zg0OtjFPedcQ9tSNQywLdPcg==",
+  "dgSpecHash": "Lmlh5c5xE7RVUdHjp9zS2XOT5KNNySviiWBeklIao6jOVsyqDWSTaCVFr/hjudlMNltRKEmlkf+kHbBsowTV7g==",
   "success": true,
   "projectFilePath": "/home/isfandyarkhan/todo-app-lakhan923/todo-app-lakhan923.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/isfandyarkhan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

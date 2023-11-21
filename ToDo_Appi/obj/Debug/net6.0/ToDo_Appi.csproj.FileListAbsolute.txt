@@ -1,0 +1,15 @@
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/bin/Debug/net6.0/ToDo_Appi
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/bin/Debug/net6.0/ToDo_Appi.deps.json
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/bin/Debug/net6.0/ToDo_Appi.runtimeconfig.json
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/bin/Debug/net6.0/ToDo_Appi.dll
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/bin/Debug/net6.0/ToDo_Appi.pdb
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/obj/Debug/net6.0/ToDo_Appi.csproj.AssemblyReference.cache
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/obj/Debug/net6.0/ToDo_Appi.GeneratedMSBuildEditorConfig.editorconfig
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/obj/Debug/net6.0/ToDo_Appi.AssemblyInfoInputs.cache
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/obj/Debug/net6.0/ToDo_Appi.AssemblyInfo.cs
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/obj/Debug/net6.0/ToDo_Appi.csproj.CoreCompileInputs.cache
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/obj/Debug/net6.0/ToDo_Appi.dll
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/obj/Debug/net6.0/refint/ToDo_Appi.dll
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/obj/Debug/net6.0/ToDo_Appi.pdb
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/obj/Debug/net6.0/ToDo_Appi.genruntimeconfig.cache
+/home/isfandyarkhan/todo-app-lakhan923/ToDo_Appi/obj/Debug/net6.0/ref/ToDo_Appi.dll
